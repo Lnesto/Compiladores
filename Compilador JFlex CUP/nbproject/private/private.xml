@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Ingenieria%20de%20Sistemas/Semestre%206/Compilador%20JFlex%20CUP/asintactico.cup</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Ingenieria%20de%20Sistemas/Semestre%206/Compilador%20JFlex%20CUP/alexico.flex</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Ingenieria%20de%20Sistemas/Semestre%206/Compilador%20JFlex%20CUP/src/compilador/sym.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Ingenieria%20de%20Sistemas/Semestre%206/Compilador%20JFlex%20CUP/src/compilador/Compilador.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Ingenieria%20de%20Sistemas/Semestre%206/Compilador%20JFlex%20CUP/src/compilador/AnalizadorLexico.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Ingenieria%20de%20Sistemas/Semestre%206/Compilador%20JFlex%20CUP/src/compilador/Tokens.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Ingenieria%20de%20Sistemas/Semestre%206/Compilador%20JFlex%20CUP/src/compilador/AnalizadorSintactico.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Ingenieria%20de%20Sistemas/Semestre%206/Compilador%20JFlex%20CUP/src/compilador/InterfazGrafica.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,7 @@
+pub clas programa{
+bool band = fals;
+if(!band){
+band=true;
+}
+
+}
